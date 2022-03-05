@@ -61,3 +61,4 @@ const allFunction ={
 //console.log('addFunction',addFunction(2,3))
 // console.log('addFunction',add2(2,3))
 module.exports = allFunction;
+
